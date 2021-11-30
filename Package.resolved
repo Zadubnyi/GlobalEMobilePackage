@@ -1,0 +1,43 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Adyen3DS2",
+        "repositoryURL": "https://github.com/Adyen/adyen-3ds2-ios",
+        "state": {
+          "branch": null,
+          "revision": "5dc03bf6133b6bc1cbde7800d4b980082e5241f9",
+          "version": "2.2.4"
+        }
+      },
+      {
+        "package": "Adyen",
+        "repositoryURL": "https://github.com/Adyen/adyen-ios",
+        "state": {
+          "branch": null,
+          "revision": "4b9312f74bbbebd1c6994173e1c6c0ba7c9a6cec",
+          "version": "3.9.1"
+        }
+      },
+      {
+        "package": "AdyenWeChatPayInternal",
+        "repositoryURL": "https://github.com/Adyen/adyen-wechatpay-ios",
+        "state": {
+          "branch": null,
+          "revision": "8441165f8db64710f0cc477f98105668d0652e6e",
+          "version": "1.0.0"
+        }
+      },
+      {
+        "package": "Braintree",
+        "repositoryURL": "https://github.com/braintree/braintree_ios",
+        "state": {
+          "branch": "master",
+          "revision": "ac33ee333cbff496843f3be550ab62de24a4802e",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
