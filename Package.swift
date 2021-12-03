@@ -27,7 +27,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "GlobalEMobileSDK",
-            url: "https://github.com/Zadubnyi/GlobalEMobileSDK/blob/main/GlobalEMobileSDK.xcframework.zip",
-            checksum: "68675d9d5d2797fd9a0bb5d3291f9daf26eb30915c60c09b846af9b9008d4252")
+            url: "https://oneclickbackend.s3.eu-central-1.amazonaws.com/GlobalEMobileSDK.xcframework.zip",
+            checksum: "22bab6a0fdf60740b6e269281063840b8839802e85fc0bc015bf5425d4f59756")
     ]
 )
