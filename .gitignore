@@ -2,3 +2,5 @@
 .DS_Store
 
 *.xcuserstate
+
+.swiftpm/xcode/xcuserdata/vitaliizadubnyi.xcuserdatad/xcschemes/xcschememanagement.plist
