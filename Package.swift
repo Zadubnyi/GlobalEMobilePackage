@@ -12,6 +12,7 @@ let package = Package(
         .library(
             name: "GlobalEMobileSDK",
             targets: ["GlobalEMobileSDK"]),
+        
     ],
     dependencies: [
          .package(
@@ -19,9 +20,8 @@ let package = Package(
             from: "3.8.5"
          ),
          .package(
-            name: "Braintree",
             url: "https://github.com/braintree/braintree_ios",
-            branch: "master"
+            from: "5.5.0"
          ),
     ],
     targets: [
